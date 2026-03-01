@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Budget Laptop", "category": "laptop", "price": 500, "description": "Affordable laptop for students" },
+  { "id": 2, "name": "Gaming Laptop", "category": "laptop", "price": 1500, "description": "High performance laptop for gaming" },
+  { "id": 3, "name": "Wireless Mouse", "category": "accessory", "price": 30, "description": "Ergonomic wireless mouse" },
+  { "id": 4, "name": "Mechanical Keyboard", "category": "accessory", "price": 120, "description": "RGB mechanical keyboard" }
+]
